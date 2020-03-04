@@ -36,7 +36,7 @@
   		<button id="amdv-product-how-often-btn-four" class="amdv-product-page-button-unclicked amdv-product-page-button-how-often" type="button" name="how-often" value="four-weeks" onclick="amdv_product_page_how_often_btn_click(this.value)">4 Weeks</button>
   		<button id="amdv-product-how-often-btn-three" class="amdv-product-page-button-unclicked amdv-product-page-button-how-often" type="button" name="how-often" value="three-weeks" onclick="amdv_product_page_how_often_btn_click(this.value)">3 Weeks</button>
       </form>
-      <input class="amdv-product-page-join-now-button" type="button" name="join-now" value="join now" onclick="amdv_product_page_subscription_submit()">
+      <input class="amdv-product-page-join-now-button" type="button" name="join-now" value="change now" onclick="amdv_product_page_subscription_submit()">
     </div>
     <div id="amdv-product-page-not-sure-separator-text" class="row amdv-product-page-separator-text-row">
       <div class="col-xs-12">
