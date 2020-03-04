@@ -1,8 +1,4 @@
 <style scoped media="screen">
-  .amdv-subscription-switch-ui-container {
-    padding-top: 30px;
-  }
-
   .amdv-subscription-switch-heading {
     text-align: center;
     font-size: 30px;
